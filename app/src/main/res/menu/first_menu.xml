@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_new_acctor"
+        android:title="add"
+        android:icon="@drawable/ic_action_add"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/preferenc"
+        android:title="Preferenc"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>
